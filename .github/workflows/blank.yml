@@ -1,0 +1,10 @@
+std::vector<std::string> Languages;
+
+
+,int main()
+{
+	// User Info
+	std::string Name = "Şehmus";
+	int Age = 20;
+	std::string Country = "Turkey";
+	bool isStudent = true;
